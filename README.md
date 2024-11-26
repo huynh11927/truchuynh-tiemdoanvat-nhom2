@@ -12,15 +12,15 @@
         <h2>Các món ăn vặt</h2>  
         <ul>  
             <li><strong>Bánh Mì Que</strong> <span>10,000 VNĐ</span></li>  
-		              <img>src="C:\xampp\html\banhmique.jpg" alt="Bánh mì que" width="131"</img>
+		              <img>src="C:\xampp\html\banhmique.jpg" alt="Bánh mì que" width="131">
             <li><strong>Khoai Tây Chiên</strong> <span>15,000 VNĐ</span></li>  
-		              <img>src="C:\xampp\html\khoaitaychien.jpg" alt="Khoai Tây Chiên" width="131"</img>
+		              <img>src="C:\xampp\html\khoaitaychien.jpg" alt="Khoai Tây Chiên" width="131">
             <li><strong>Xúc Xích Nướng</strong> <span>20,000 VNĐ</span></li>  
-		              <img>src="C:\xampp\html\xucxichnuong.jpg" alt="Xúc Xích Nướng" width="131"</img>
+		              <img>src="C:\xampp\html\xucxichnuong.jpg" alt="Xúc Xích Nướng" width="131">
             <li><strong>Gà Rán Giòn Tan</strong> <span>25,000 VNĐ</span></li>  
-		              <img>src="C:\xampp\html\gagangion.jpg" alt="Gà gán giòn tan" width="131"</img>
+		              <img>src="C:\xampp\html\gagangion.jpg" alt="Gà gán giòn tan" width="131">
             <li><strong>Trà Sữa Trân Châu</strong> <span>18,000 VNĐ</span></li>
-		              <img>src="C:\xampp\html\trasuatranchau.jpg" alt="Trà sữa trân châu" width="131"</img>
+		              <img>src="C:\xampp\html\trasuatranchau.jpg" alt="Trà sữa trân châu" width="131">
 	    <table border="1">
 		    <tr><th rowspan="2"> Lượt tích điểm </th> <th colspan="3"> Điểm tích</th></tr>
 		    <tr><td>Lượt 1</td> <td>Lượt 2</td> <td>Lượt 3</td></tr>
